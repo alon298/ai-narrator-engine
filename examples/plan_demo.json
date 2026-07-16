@@ -1,0 +1,8 @@
+{
+  "shots": [
+    {"shot_id": 1, "type": "开场", "subject": "冰感内裤包装", "motion": "快速拉近", "start": 0.0, "end": 3.2, "pace": "快"},
+    {"shot_id": 2, "type": "特写", "subject": "腰头", "detail": "无痕加宽设计", "start": 3.2, "end": 7.0, "pace": "慢"},
+    {"shot_id": 3, "type": "特写", "subject": "面料", "detail": "Q-max 0.28 接触凉感", "start": 7.0, "end": 11.5, "pace": "慢"},
+    {"shot_id": 4, "type": "收尾", "subject": "产品全家福", "start": 11.5, "end": 14.0, "pace": "快"}
+  ]
+}
